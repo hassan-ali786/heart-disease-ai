@@ -49,8 +49,7 @@ HeartDiseaseAI/
 ├── static/
 │   └── style.css
 ├── train_model.py
-├── app.py
-└── run_project.bat
+└── app.py
 ```
 
 ---

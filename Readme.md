@@ -36,7 +36,8 @@ This project is suitable for data science portfolios, machine learning demonstra
 ## Project Structure
 
 ```
-HeartDiseaseAI/
+
+heart-disease-ai/
 │
 ├── dataset/
 │   └── heart.csv

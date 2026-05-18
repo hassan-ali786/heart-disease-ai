@@ -60,7 +60,7 @@ heart-disease-ai/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hassan-ali786/Heart-Disease-AI.git
+git clone https://github.com/hassan-ali786/heart-disease-ai.git
 cd HeartDiseaseDashboard
 ```
 

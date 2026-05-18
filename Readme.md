@@ -183,16 +183,18 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## Author
-
-Hassan Ali  
-Data Scientist and Machine Learning Engineer
-
----
-
 ## Future Improvements
 
 - Deployment on cloud platforms such as AWS, Render, or Heroku  
 - User authentication system  
 - Integration of advanced models such as XGBoost  
-- Real-time health data integration  
+- Real-time health data integration
+
+- ---
+
+## Author
+
+Hassan Ali  
+Data Scientist & Machine Learning Engineer
+
+---

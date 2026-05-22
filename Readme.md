@@ -61,7 +61,7 @@ heart-disease-ai/
 
 ```bash
 git clone https://github.com/hassan-ali786/heart-disease-ai.git
-cd HeartDiseaseDashboard
+cd heart-disease-ai
 ```
 
 ### 2. Install Dependencies

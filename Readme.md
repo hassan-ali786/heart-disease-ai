@@ -130,19 +130,6 @@ http://127.0.0.1:5000/
 
 ---
 
-## Requirements
-
-```
-flask
-pandas
-numpy
-scikit-learn
-matplotlib
-pdfkit
-```
-
----
-
 ## Notes
 
 - Ensure the dataset is placed inside the `dataset/` directory  

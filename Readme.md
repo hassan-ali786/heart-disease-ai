@@ -6,19 +6,6 @@ This project is suitable for data science portfolios, machine learning demonstra
 
 ---
 
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![Flask](https://img.shields.io/badge/Flask-Web_Framework-black?logo=flask)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange?logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-purple?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-blue?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
-![HTML5](https://img.shields.io/badge/HTML5-Frontend-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3)
-
----
-
 ## Key Features
 
 - Machine Learning-based heart disease prediction using Random Forest Classifier  
@@ -52,6 +39,19 @@ heart-disease-ai/
 ├── train_model.py
 └── app.py
 ```
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-Web_Framework-black?logo=flask)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange?logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-purple?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![HTML5](https://img.shields.io/badge/HTML5-Frontend-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3)
 
 ---
 

@@ -6,6 +6,12 @@ This project is suitable for data science portfolios, machine learning demonstra
 
 ---
 
+## Video Demo:
+
+https://github.com/user-attachments/assets/7e461338-7db7-40df-af2a-9444c3efd216
+
+---
+
 ## Key Features
 
 - Machine Learning-based heart disease prediction using Random Forest Classifier  

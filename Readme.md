@@ -8,7 +8,7 @@ This project is suitable for data science portfolios, machine learning demonstra
 
 ## Video Demo:
 
-https://github.com/user-attachments/assets/7e461338-7db7-40df-af2a-9444c3efd216
+<video src="https://github.com/user-attachments/assets/7e461338-7db7-40df-af2a-9444c3efd216" width="100%" controls></video>
 
 ---
 
